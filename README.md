@@ -1,3 +1,3 @@
 ## CrashScope
 
-This is the standalone CrashScope project, further documentation coming soon.
+This repo contains the CrashScope project. Please find information for setting up and Configuring CrashScope at the [tutorial webpage](https://sagelab.io/crashscope-tutorial/).
